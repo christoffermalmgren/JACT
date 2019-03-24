@@ -1,0 +1,45 @@
+.body{
+    
+
+}
+.logo{
+    background-image: url("../../logos/logo1.jpg");
+    height: -webkit-fill-available;
+    width: 100%;
+    background-size: 20%;
+    display: flex;
+    display: flex;
+    align-items: center;
+    
+}
+
+.container{
+    width: 35%;
+    background: black;
+    opacity: 0.9;
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    align-items: center;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.admin{
+    color: #e9d2d0;
+    font-family: 'Permanent Marker', cursive;
+    border-bottom: 1px solid grey;
+    padding-bottom: 15px;
+
+}
+
+.login{
+    width: 55%;
+    margin-top: 50px;
+    font-family: 'Permanent Marker', cursive;
+    font-weight: 900;
+    font-size: 20px;
+    letter-spacing: 3px;
+    color: white;
+}
+
